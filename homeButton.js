@@ -17,7 +17,7 @@
 (function() {
   // Default configuration
   const defaultConfig = {
-    url: "https://simproving.github.io/home/",
+    url: "https://simproving.github.io",
     text: "Home",
     position: "bottom-center" // Default position
   };
